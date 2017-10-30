@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id" />
+    <item name="toolbar_title" type="id" />
+    <item name="toolbar_right" type="id" />
+    <item name="content_view" type="id" />
+    <item name="error_view" type="id" />
+    <!--下拉刷新-->
+    <item name="pull_refresh_view" type="id" />
+    <item name="recycler_view" type="id" />
+</resources>
